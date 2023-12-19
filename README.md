@@ -1,3 +1,4 @@
+![Screen Shot 2023-12-19 at 13 53 22](https://github.com/fancesatria/rock_paper_scissors_classification/assets/87270346/4d6ab937-21cd-4c72-a013-3d3388fbc0fe)
 # Rock Paper Scissors Image Classification
 Lintasarta Cloudeka Digischool x Dicoding Basic Machine Learning
 
